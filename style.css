@@ -1,0 +1,210 @@
+p {
+    font-size: 1.5625em;
+    margin-top: 0.625em;
+    margin-left: 0.625em;
+    text-indent: 1.25em;
+    display: inline-block;
+    margin-left: 16.25em;
+    margin-right: 16.25em;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.headerImage {
+    height: 12.5em;
+    margin-left: 36.6875em;
+    margin-right: 36.6875em;
+}
+
+.blackBack {
+    background-image: url('img/1.2.png');
+    height: 6.25em;
+    border-radius: 0.625em;
+}
+
+.redText {
+    color: #8b0000;
+    font-size: 2.5em;
+    font-weight: 900;
+    margin-left: 770px;
+    margin-right: 770px;
+    margin-bottom: 1.5em;
+    margin-top: 1.5em;
+}
+
+.Main {
+    font-size: 1.875em;
+    padding: 0.3125em;
+    margin-left: 0.3125em;
+}
+
+.menu {
+    border: solid 0.3125em #999;
+    border-radius: 0.3125em;
+    margin: 0.625em;
+    float: left;
+    width: 15.625em;
+    height: 23.4375em;
+}
+
+.menuContent {
+    font-size: 1.25em;
+    margin-left: 1.25em;
+    margin-top: 0.625em;
+}
+
+.liMenuContent {
+    font-size: 1.25em;
+    margin-left: 2.5em;
+    margin-top: 0.8em;
+}
+
+.MainImgs {
+    display: block;
+    float: left;
+    margin-left: 15.625em;
+    margin-top: 1.25em;
+}
+
+blockquote {
+    font-size: 1.5625em;
+    float: right;
+    margin: 2.5em;
+    padding: 0.625em;
+    border: 0.3125em solid #999999;
+    border-radius: 0.3125em;
+    background-color: #00cfff;
+}
+
+.winRight {
+    margin-left: 9.375em;
+}
+
+.small {
+    font-size: 1.25em;
+    float: right;
+    margin-top: 0.625em;
+}
+
+.LenaImg {
+    margin-left: 8em;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+}
+
+.Margin312 {
+    margin-left: 9.375em;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+}
+
+.ValyaImg {
+    margin-left: 9.375em;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+    width: 28.125em;
+}
+
+.Margin341 {
+    margin-left: 5.625em;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+}
+
+.Margin342 {
+    margin-left: 8.125em;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+}
+
+.school {
+    margin-left: 46.875em;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+    width: 25em;
+}
+
+.left512 {
+    margin-top: 1.25em;
+    margin-left: 33.75em;
+    margin-bottom: 1.25em;
+}
+
+.strongText {
+    font-weight: 800;
+    font-size: 1.5625em;
+    margin-top: 0.625em;
+    margin-left: 0.625em;
+    text-indent: 1.25em;
+    margin-left: 16.25em;
+    margin-right: 16.25em;
+}
+
+.star {
+    margin-left: 50em;
+    width: 21.875em; 
+}
+
+.photo {
+    margin-left: 31.25em;
+    width: 15.625em;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+    float: left;
+}
+
+
+.photoMedal {
+    margin-left: 28.125em;
+    width: 15.625em;
+    margin-top: 1.25em;
+    display: inline-block;
+}
+
+#newP {
+    margin-left: 20em;
+    margin-right: 0;
+}
+
+#newPRight {
+    margin-left: 22em;
+    margin-right: 0;
+}
+
+.lineMain, .linePioneers, .lineReward, .lineRemember {
+    height: 0.1875em;
+    margin-left: 1.25em;
+    margin-top: 0.1875em;
+}
+.lineMain {
+    width: 6.25em;
+    background-color:#f38181;
+}
+
+.linePioneers {
+    width: 9.375em;
+    background-color:#f38181;
+}
+
+.lineReward {
+    width: 5em;
+    background-color:#f38181;
+}
+
+.lineRemember {
+    width: 7em;
+    background-color:#f38181;
+}
+
+
+
+
+
+
+
+
+
+
