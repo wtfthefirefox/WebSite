@@ -15,12 +15,14 @@ a {
 
 .headerImage {
     height: 12.5em;
+    width: 45em;
     margin-left: 36.6875em;
     margin-right: 36.6875em;
 }
 
 .blackBack {
     background-image: url('img/1.2.png');
+    width: 100%;
     height: 6.25em;
     border-radius: 0.625em;
 }
@@ -197,6 +199,19 @@ blockquote {
 .lineRemember {
     width: 7em;
     background-color:#f38181;
+}
+
+.margin342 {
+    margin-left: 81em; 
+}
+
+.margin343 {
+    margin-left: 42em;
+    margin-bottom: 1em;
+}
+
+.miniTitle {
+    font-size: 1em;
 }
 
 
